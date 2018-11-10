@@ -1,0 +1,104 @@
+@font-face{
+  font-family: 'L-Consolas';
+  src: url('fonts/L-Consolas.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@font-face{
+  font-family: 'L-Consolas';
+  src: url('fonts/L-Consolas-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'L-Consolas';
+  src: url('fonts/L-Consolas-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: 'L-Consolas';
+  src: url('fonts/L-Consolas-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+body {
+  font-size: 22px;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+.title-slide h3, .remark-slide .title-slide h3, h1, h2, h3 {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+.title-slide {
+  background-image: url("../img/mu_jschool.png"),
+                    url("../img/mu_dsa_rev.png");
+  background-size: 300px auto, 300px auto;
+  background-position: 0% 100%, 100% 100%;
+}
+
+.remark-slide-content {
+  background-image: url("../img/mu_jschool.png"),
+                    url("../img/mu_dsa_rev.png");
+  background-size: 250px auto, 250px auto;
+  background-position: 0% 100%, 100% 100%;
+}
+.inverse {
+  background-image: none !important;
+}
+
+.remark-slide-number {
+  top: 12px;
+  bottom: unset;
+}
+.title-slide .remark-slide-number {
+  display: none;
+}
+ul li, ol li {
+  margin-top: .6em;
+  margin-bottom: .6em;
+}
+/*.mjx-chtml {
+  font-size: 120% !important;
+}*/
+table {
+  margin: auto;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-spacing: 0;
+  min-width: 30%;
+  font-size: 75%;
+}
+table thead th {
+  border-bottom: 1px solid #333;
+  border-collapse: collapse;
+}
+th, td { padding: 4px 12px; }
+td { vertical-align: middle; }
+tr:nth-child(even) { background: #f3f3f3 }
+.remark-code, .remark-inline-code {
+  font-family: "L-Consolas", 'Courier New', monospace;
+}
+pre code {
+  font-size: 84% !important;
+}
+.wide pre {
+  width: 110% !important;
+  margin-left: -6.25% !important;
+}
+.tight ul li, .tight ol li {
+  margin-top: .6em;
+  margin-bottom: .6em;
+  line-height: 0 !important;
+}
+.tight p {
+  margin-top: -.2em;
+}
+.inverse, .inverse h1 {
+  background-color: #111;
+  color: #f0cc50;
+}
