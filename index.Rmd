@@ -63,7 +63,7 @@ Intense/high-certainty people, attitudes, or opinions are **not intrinsically pa
 
 ## Partisanship
 
-**Political partisanship** refers to *politcal alignment, or one's political affiliation, with others*
+**Political partisanship** refers to *political alignment, or one's political affiliation, with others*
 
 + In other words, partisanship is the **organization of political *networks***
 
@@ -123,7 +123,7 @@ Follow [friend] networks on Twitter in lead up to 2016 general election
 + Random sample of 3,000 Twitter users
    - **Democrats** (followers of Maddow, Salon, HuffPost, Krugman)
    - **Republicans** (followers of Hannity, Drudge, FoxNews, Palin)
-   - **Moderates** (followers of SI, Curvivor, AMC, American Idol)
+   - **Moderates** (followers of SI, Survivor, AMC, American Idol)
 + Tracked users from May to November in 2016
    - 17 waves of data collection
 
