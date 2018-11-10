@@ -1,6 +1,5 @@
 ---
-title: "Network polarization on Twitter"
-subtitle: "Tracking follow decisions during the 2016 election"
+title: "Analyzing follow decisions of partisans on Twitter during the 2016 election"
 author: '`r rmdees::title_author()`'
 date: '`r rmdees::title_icons_fa5()`'
 output:
