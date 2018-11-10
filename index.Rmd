@@ -123,8 +123,16 @@ Follow [friend] networks on Twitter in lead up to 2016 general election
    - **Democrats** (followers of Maddow, Salon, HuffPost, Krugman)
    - **Republicans** (followers of Hannity, Drudge, FoxNews, Palin)
    - **Moderates** (followers of SI, Survivor, AMC, American Idol)
+
+---
+
+## Context and Data
+
 + Tracked users from May to November in 2016
    - 17 waves of data collection
+
++ Data collected each wave:
+   - Friend list (all accounts followed by users in the sample) for each user
 
 ---
 
@@ -151,6 +159,10 @@ For **partisan users** (Democrats and Republicans)...
 
 + Partisanship of follow decisions systematically favored their own groups
 + Frequency of follow decisions increased with proximity to the election
+
+---
+
+## Results
 
 For **non-partisan users** (moderates)...
 
